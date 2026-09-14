@@ -16,8 +16,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/my-fm-challenges/recipe-page](https://your-solution-url.com)
-- Live Site URL: [https://my-fm-challenges.github.io/recipe-page/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/my-fm-challenges/recipe-page](https://github.com/my-fm-challenges/recipe-page)
+- Live Site URL: [https://my-fm-challenges.github.io/recipe-page/](https://my-fm-challenges.github.io/recipe-page/)
 
 
 ### Built with
