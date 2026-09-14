@@ -7,8 +7,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
 
 
 ### Screenshot
